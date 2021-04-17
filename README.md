@@ -1,1 +1,2 @@
-Hijri Calendar
+# Hijri Calendar
+A Hijri Calendar widget in different languages. I plan on crating one in WxWidgets for desktop, one as a PWA, and one in JAVA for android. The widget depends on adhan.com API and ummalqura method in case of API failure.
